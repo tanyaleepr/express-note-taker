@@ -3,7 +3,7 @@
 ![license badge](https://img.shields.io/badge/license-MIT-darkblue)
     
 ## Description
-This application provides the creation of a new note and saves the retrieved note data.
+This application provides the creation of a new note and saves the retrieved note data. Please visit [Heroku by clicking here](https://shrouded-lowlands-46966.herokuapp.com/) for the deployed version of this project.
 ## Table of Contents
 
 - [Installation](#installation)
